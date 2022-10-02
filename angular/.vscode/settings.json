@@ -24,5 +24,5 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
 
   "explorer.confirmDelete": false,
-  "eslint.quiet": true
+  "eslint.quiet": false
 }
